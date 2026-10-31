@@ -4,6 +4,7 @@ Repositório dedicado à entrega das **Microatividades (1 a 5)** e do **Trabalho
 
 ## Estrutura do Repositório
 
+- `.gitignore`: Configuração do Git para ignorar caches de bytecode do Python e arquivos temporários de checkpoint do Jupyter Notebook.
 - `conjunto_de_dados_trabalho_pratico_contextualizacao_atividade_pico_web.csv`: Conjunto de dados estruturado em formato CSV (separado por `;`).
 - `microatividades.py`: Script contendo a resolução das 5 microatividades exploratórias.
 - `trabalho_pratico.py`: Script contendo o pipeline de limpeza e transformação de dados em 13 etapas.
