@@ -1,7 +1,11 @@
-# Python cache files
+# Arquivos de caches de bytecode do Python
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter Notebook checkpoints
+# Arquivos temporários de checkpoint do Jupyter Notebook
 .ipynb_checkpoints/
+
+# Ambientes virtuais do Python
+venv/
+.venv/
